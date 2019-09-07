@@ -1,1 +1,1 @@
-# project2
+Welcome to our GT Coding Bootcamp Project 2 
